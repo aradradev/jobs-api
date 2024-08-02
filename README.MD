@@ -1,4 +1,4 @@
-#### Setup
+#### Setup of project
 
 ```bash
 npm install && npm start
