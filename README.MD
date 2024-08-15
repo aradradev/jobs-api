@@ -1,4 +1,4 @@
-#### Setup of project
+#### Setup of the jobs-api project
 
 ```bash
 npm install && npm start
